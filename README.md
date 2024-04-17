@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hello, It's *Riccardo*
+*I'm a web developer and I make Node.JS projects in my free time!*
 
-<!--
-**riccardomortier/riccardomortier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### My Socials
+- [Portfolio](https://riccardomortier.github.io/)
+- [Instagram](https://instagram.com/riccardo.mortier)
 
-Here are some ideas to get you started:
+#### My Favorites
+- Color: `#990000`
+- Artist: [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx?si=xfqc0YRnTNGprO1tJ4LvNA)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Coder Quote
+```js
+const life = `money -> invest -> money++ -> repeat()`;
+```
